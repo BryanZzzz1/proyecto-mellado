@@ -1,0 +1,13 @@
+instalación 
+npm install -g json-server
+
+
+quitar permisos de powershell 
+
+Set-ExecutionPolicy RemoteSigned
+
+levantar proyecto 
+
+json-server --watch db.json
+
+
