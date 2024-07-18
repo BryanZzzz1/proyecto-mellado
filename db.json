@@ -1,5 +1,35 @@
 {
-  "users": [],
-  "donaciones": [],
-  "dinero_donacion": []
+  "users": [
+    {
+      "id": "c97a",
+      "username": "raulriquelme",
+      "password": "raul123"
+    }
+  ],
+  "donaciones": [
+    {
+      "id": "778d",
+      "nombre": "raul riquelme",
+      "email": "raul.riquelme@gmail.com",
+      "telefono": "987654332",
+      "tipo_dispositivo": "laptop",
+      "marca_modelo": "acer",
+      "estado_dispositivo": "usado(roto)",
+      "descripcion_estado": "el dispositivo esta descompuesto",
+      "accesorios": "cargador",
+      "preferencia_contacto": "email",
+      "instrucciones_entrega": "tener cuidado con la bateria",
+      "como_enteraste": "por redes sociales",
+      "confirmacion_terminos": true
+    }
+  ],
+  "dinero_donacion": [
+    {
+      "id": "a59b",
+      "nombre": "raul riquelme",
+      "email": "raul.riquelme@gmail.com",
+      "telefono": "987654332",
+      "monto_donacion": "800000"
+    }
+  ]
 }
